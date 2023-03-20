@@ -1,18 +1,7 @@
 # JAVA_CommonsCollections_learning
 
-#### 介绍
-java反序列学习，针对ysoserial上CommonsCollections1-7的payload学习。
+Java deserialization learning, learning for the payload of CommonsCollections1-7 on ysoserial.
 
-#### 软件架构
-软件架构说明
+CC1 and CC3 require jdk<72
 
-
-#### 安装教程
-
-idea导入
-
-#### 使用说明
-
-CC1和CC3需要jdk<72
-
-CC2和CC4需要CommonsCollections4.0，其余是3的版本
+CC2 and CC4 require CommonsCollections4.0, the rest are 3 versions
